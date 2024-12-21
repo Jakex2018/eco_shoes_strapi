@@ -1,4 +1,3 @@
-import { getCategory } from "@/api/getCategory"
 import { getProductCategory } from "@/api/getProductCategory"
 import { ProductType } from "@/type/productType"
 import { ResponseType } from "@/type/responseType"

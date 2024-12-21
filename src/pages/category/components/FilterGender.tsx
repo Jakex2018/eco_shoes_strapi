@@ -1,4 +1,3 @@
-import React from 'react'
 import { RadioGroupItem } from "@/components/ui/radio-group"
 import { RadioGroup } from "@radix-ui/react-radio-group"
 import { Label } from "@/components/ui/label"
